@@ -1,0 +1,2 @@
+class	roc_auc	average_precision
+FMRP	0.8377	0.3577
